@@ -2,7 +2,7 @@
 
 [![canon.com/ijsetup](Get-Started-Now-Button-PNG-Pic.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com) 
 
-**Canon IJ Setup** Printers are an affordable home printer that generates outstanding quality documents and photos. You can scan documents and make a copy of them in just a few seconds with canon printer setup. Start using canon printers today by downloading the driver software from **[canon.com/ijsetup](https://startcomijsetup.github.io/) **  and connecting it with your preferred device. 
+**Canon IJ Setup** Printers are an affordable home printer that generates outstanding quality documents and photos. You can scan documents and make a copy of them in just a few seconds with canon printer setup. Start using canon printers today by downloading the driver software from **[canon.com/ijsetup](https://startcomijsetup.github.io/)**  and connecting it with your preferred device. 
 
 
 ## How to Install canon printer setup ?
@@ -10,7 +10,7 @@
 **The following steps will help you install the canon printer setup easily. Follow them systematically and without facing any issue:**
 
 1. Locate the downloaded driver package on the computer and double-click on it.
-2. Then, select the USB option as a **[canon.com/ijsetup](https://startcomijsetup.github.io/) **  connection type.
+2. Then, select the USB option as a **[canon.com/ijsetup](https://startcomijsetup.github.io/)**  connection type.
 3. A new Welcome screen of the **“Installation Wizard”** will appear. 
 4. Then, click **"I Agree"** to continue the process of installation.
 5. Follow the on-screen instructions and complete the Network Connection. 
